@@ -2,7 +2,7 @@
 layout: default
 title: Songbooks
 image: book.jpg
-caption: The Lastest and Greatest Songbook
+caption: The Latest and Greatest Songbook
 ---
 The songbooks are the Shropshire Strummers own work and represents their interpretation of the songs. You may only use the songbooks for private study, scholarship, or research. 
 
