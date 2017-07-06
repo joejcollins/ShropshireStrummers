@@ -20,3 +20,7 @@ body {
 	background-color:#FFF;
 	text-align : center;
 }
+
+table{
+	cellpadding: 5;
+}
