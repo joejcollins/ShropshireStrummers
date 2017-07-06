@@ -4,9 +4,9 @@ html, body {
   height: 100%;
 }
 body {
-  background-image: url("/images/page-bg.jpg");
+  background-image: url("/images/background-sun.jpg"), url("/images/background-sky.jpg");
   background-position: left bottom;
-  background-repeat: no-repeat;
+  background-repeat: no-repeat, repeat-x;
   background-attachment: fixed;
 }
 
