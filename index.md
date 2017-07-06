@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Shropshire Strummers
+title: Welcome
 image: ade_and_tony.jpg
 caption: The Strummers in Action
 ---
