@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Gigs and Sing-a-Longs
+image: longmynd_house.jpg
+caption: Sing-a-long
 ---
-Gigs and Sing-a-Longs
-
 The Shropshire Strummers are happy to play at gigs and sing-a-long events.  
 
 Call Gloria on 01694 724106.

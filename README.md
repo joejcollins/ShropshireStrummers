@@ -2,4 +2,6 @@
 
 ## Uses
 
+* https://pages.github.com/ (https://jekyllrb.com/)
+* http://getbootstrap.com/
 * http://www.lavishbootstrap.com/
