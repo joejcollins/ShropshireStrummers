@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Welcome
+title: Join Us
 image: rich_and_ade.jpg
-caption: The Great and Dear Leaders
+caption: Band Leaders
 ---
 The Shropshire Strummers meet every week somewhere in Shropshire to share our love of playing the ukulele. Take a look at the [calendar](/calendar) and join us.
 
