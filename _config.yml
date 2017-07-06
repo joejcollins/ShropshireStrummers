@@ -8,11 +8,11 @@ kramdown:
   input: GFM
   hard_wrap: false
 
-url: https://www.shropshirestrummers.co.uk
+url: https://shropshirestrummers.github.io/
 timezone: GMT
 
 # Permalinks
-permalink:        pretty
+permalink: pretty
 
 # Social
 title: Shropshire Strummers 
