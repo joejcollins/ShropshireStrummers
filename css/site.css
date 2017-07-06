@@ -1,15 +1,13 @@
 /* background image */
-html { 
-background: url(images/page-bg.jpg) no-repeat center center fixed; 
--webkit-background-size: cover;
--moz-background-size: cover;
--o-background-size: cover;
-background-size: cover;
+html, body {
+  padding-top: 40px; 
+  height: 100%;
 }
-
 body {
-    padding-top: 40px; 
-    height: 100%;
+  background-image: url("images/page-bg.jpg");
+  background-position: center bottom;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
 }
 
 /* Polaroid photo box */
