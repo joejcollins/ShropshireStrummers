@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Welcome
+title: Gigs and Sing-a-Longs
 ---
-The Shropshire Strummers meet every week somewhere in Shropshire to share our love of playing the ukulele. Take a look at the calendar and join us.
+Gigs and Sing-a-Longs
 
-Everyone is welcome and there are currently over 30 players who get together regularly to play everything from folk to punk. Songs are suggested by the group and if we can work out the chords we will usually give it a go.
+The Shropshire Strummers are happy to play at gigs and sing-a-long events.  
 
-We welcome absolute beginners who are usually bashing out a chord or three by the end of the night.
+Call Gloria on 01694 724106.
 
-Call Adrian (The Great Leader) on 07904 624357 or join our Mailing List.
+We are a voluntary group and play for the fun of it so we don't charge but we do ask for a contribution to our favourite charity, The Mayfair Community Centre.
