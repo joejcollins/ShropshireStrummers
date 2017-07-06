@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Shropshire Strummers
+image: longmynd_house.jpg
+caption: Sing-a-long
 ---
 Children across the country have been casting aside their recorders and are taking up the ukulele instead.  Adults who haven’t played a musical instrument for years are finding the ukulele is fun and easy to play.  Now the ukulele can be heard all across Shrophire.
  
