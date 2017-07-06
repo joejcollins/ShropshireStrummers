@@ -21,6 +21,6 @@ body {
 	text-align : center;
 }
 
-table{
-	cellpadding: 5;
+th, td{
+	padding: 5px;
 }
