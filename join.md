@@ -10,4 +10,4 @@ Everyone is welcome and there are currently over 30 players who get together reg
 
 We welcome absolute beginners who are usually bashing out a chord or three by the end of the night.
 
-Call Adrian (The Great Leader) on 07904 624357 or join our [Mailing List](https://groups.google.com/forum/#!forum/shropshirestrummers).
+Call Adrian on 07904 624357 or join our [Mailing List](https://groups.google.com/forum/#!forum/shropshirestrummers).
