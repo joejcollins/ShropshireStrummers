@@ -10,4 +10,4 @@ The Shropshire Strummers meet every week ([calendar](/calendar)), to sing and en
  
 Why not join us and follow in the steps of other famous ukulele players like George Harrison, Brian Wilson, Brian May, Eric Clapton and Marilyn Monroe.
  
-Call Adrian on 07904 624357 or join our [Mailing List](https://groups.google.com/forum/#!forum/shropshirestrummers).  No experience necessary, we'll even lend you a ukulele..
+Call Adrian on 07904 624357 or join our [Mailing List](https://groups.google.com/forum/#!forum/shropshirestrummers).  No experience necessary, we'll even lend you a ukulele.
