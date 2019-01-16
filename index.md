@@ -5,22 +5,22 @@ image: five_ukes.jpg
 caption: Sing For Your Supper
 ---
 
-# THE ROTARY CLUB OF CHURCH STRETTON
+## THE ROTARY CLUB OF CHURCH STRETTON
 
-## invite you to
+### invite you to
 
-# SING FOR YOUR SUPPER
+## SING FOR YOUR SUPPER
 
-## with
+### with
 
-# SHROPSHIRE STRUMMERS
+## SHROPSHIRE STRUMMERS
 
-## at the Silvester Horne Institute on
+### at the Silvester Horne Institute on
 
-# FRIDAY 15 th FEBRUARY 2019
+## FRIDAY 15 th FEBRUARY 2019
 
-## at 7.30 p.m.
+### at 7.30 p.m.
 
-## Tickets £10 from John Thomas florists or a Rotary Club Member
+### Tickets £10 from John Thomas florists or a Rotary Club Member
 
-## Ticket includes a hot pot supper
+### Ticket includes a hot pot supper
