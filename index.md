@@ -6,7 +6,9 @@ caption: The Strummers in Action
 ---
 All strumming has beened temporariliy suspended due to the current coronavirus crisis.
 
-We will be back so if you would like to stay in touch and join our [Mailing List](https://groups.google.com/forum/#!forum/shropshirestrummers).
+We will be back.
+
+If you would like to stay in touch join our [Mailing List](https://groups.google.com/forum/#!forum/shropshirestrummers).
 
 <!--
 Children across the country have been casting aside their recorders and are taking up the ukulele instead.  Adults who haven’t played a musical instrument for years are finding the ukulele is fun and easy to play.  Now the ukulele can be heard all across Shrophire.
